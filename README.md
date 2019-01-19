@@ -13,6 +13,9 @@ This template creates a basic react app with the following opinions:
 
 ```
 degit twilson63/react-template myproject
+cd myproject
+yarn
+yarn dev
 ```
 
 
